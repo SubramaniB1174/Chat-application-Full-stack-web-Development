@@ -27,6 +27,9 @@ User connection logs: Displays when users join or leave the chat.
 🧰 Tech Stack
 Frontend: HTML, CSS, and JavaScript
 
+# output
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/219667b6-9cad-4e0e-912c-3840a3a70dda" />
+
 Backend: Node.js with Express
 
 WebSocket Layer: Socket.IO
